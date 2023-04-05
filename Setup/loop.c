@@ -1,15 +1,9 @@
 #include <stdio.h>
 int main()
 {
-
-    for (int i = 0; i <= 5; i++)
-    {
-        if (i == 3)
-        {
-            break;
-        }
-        printf("Hello world! %d\n", i);
+    int i = 0;
+    while (i = 0) {
+        printf("Hello\n");
     }
-
     return 0;
 }
